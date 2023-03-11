@@ -1,0 +1,11 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.log{
+    color: blue ;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: right;
+}
